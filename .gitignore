@@ -1,0 +1,21 @@
+# Maven
+target
+
+# Eclipse
+.project
+.classpath
+.settings
+.sts4-cache
+
+# Visual Code
+.vscode
+
+# IntelliJ IDEA
+.idea
+*.iml
+
+# Gradle
+build
+.gradle
+
+http-client.private.env.json
